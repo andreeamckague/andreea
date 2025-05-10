@@ -432,7 +432,7 @@ a:hover, .discover-container h1 a:hover{transform: translateY(-3px); transition:
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
-  max-width: 58%; 
+  max-width: 57.45%; 
 }
 .case .section .right ol{margin: 0vw 0vw 0 0; font-weight: 600; color: #B9CCF5;}
 .rogers1, .rogers2, .rogers3, .waterloo1, .waterloo2, .waterloo3, .amelia1, .amelia2, .amelia3
