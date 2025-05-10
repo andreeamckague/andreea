@@ -169,17 +169,30 @@ h5{
 .hero-container .left-column p{margin-top: 4.3vw; max-width: 29vw; line-height: 1.7vw;}
 .space-between{display: flex; justify-content: space-between;}
 
-/* Skills */
+
 .skills-container{
-  margin: 0.2vw auto 4.6vw 7vw;
+  margin: 0vw 0 4.6vw 0;
   width: 100vw;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
 }
-.skills-container .skills{width: 100vw; padding: 1vw 0 0 0;}
+.skills-container h2{
+  margin: 0.2vw auto 2vw 7vw;}
+.skills-container .skills{width: 100vw;}
 
+.pics-container{
+  margin: 0 auto 4.3vw auto;
+  width: 85vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.pics-container h3{margin: 0;}
+.pics-container .pics{width: 85vw; 
+  margin: 0 auto;}
 /* Featured */
 .featured-container{
 	display: flex;
