@@ -178,7 +178,7 @@ h5{
   justify-content: center;
   align-items: flex-start;
 }
-.skills-container .skills{width: 85vw; padding: 1vw 0 0 0;}
+.skills-container .skills{width: 100vw; padding: 1vw 0 0 0;}
 
 /* Featured */
 .featured-container{
